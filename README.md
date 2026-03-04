@@ -71,6 +71,8 @@ Deux dashboards principaux ont été développés.
 
 # Dashboard 1 — Executive Overview
 
+![Executive Overview](images/Executive_Overview.png)
+
 Ce dashboard offre une **vue synthétique de la performance commerciale**.
 
 Principaux indicateurs :
@@ -86,6 +88,8 @@ Ce dashboard permet d’obtenir rapidement une **vision globale de l’activité
 ---
 
 # Dashboard 2 — Analyse du churn client
+
+![Churn Dashboard](images/Analysis_Churn.png)
 
 Ce dashboard analyse les **facteurs expliquant le churn client**.
 
