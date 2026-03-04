@@ -89,7 +89,7 @@ Ce dashboard permet d’obtenir rapidement une **vision globale de l’activité
 
 # Dashboard 2 — Analyse du churn client
 
-![Churn Dashboard](images/Analysis_Churn.png)
+![Churn Dashboard](images/churn_analysis.png)
 
 Ce dashboard analyse les **facteurs expliquant le churn client**.
 
