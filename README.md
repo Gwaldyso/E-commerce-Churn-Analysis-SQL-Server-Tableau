@@ -71,7 +71,7 @@ Deux dashboards principaux ont été développés.
 
 # Dashboard 1 — Executive Overview
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 Ce dashboard offre une **vue synthétique de la performance commerciale**.
 
